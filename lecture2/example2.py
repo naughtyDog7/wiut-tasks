@@ -1,4 +1,4 @@
-from seminar2 import example1
+from lecture2 import example1
 
 
 # This is the example of calling function using value argument
